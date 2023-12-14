@@ -22,8 +22,9 @@ git clone https://github.com/lithV/InMemory-FileManagement_System
 ```bash
 ls [directory_path]
 ```
-Description:
-<h4> Displays the list of files and directories in the specified directory. If no directory path is provided, it lists the contents of the current directory.</h4>
+<h4> 
+  Description:
+  Displays the list of files and directories in the specified directory. If no directory path is provided, it lists the contents of the current directory.</h4>
 
 # 2. cd - Change Directory
 **Syntax:**
