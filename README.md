@@ -91,6 +91,7 @@ mkdir [file_name]
 <h4>Description:
 Create a new directory..<h4>
 
+![File System Image](https://github.com/lithV/InMemory-FileManagement_System/blob/main/img.jpg)
 
 **Notes
 Ensure that the paths provided for commands**
