@@ -8,7 +8,7 @@ The Python Shell is a command-line interface designed to perform basic file syst
 ## Install Dependencies from Python Pip
 
 ```bash
-pip install colorama,shlex,p
+pip install colorama,shlex,pickle
 ```
 
 ## Clone the repo
